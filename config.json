@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        10000,
+        300
+      ],
+      "tensorPath": "github.com/elmathioso/tbs/TBS-vectors.tsv",
+      "metadataPath": "github.com/elmathioso/tbs/TBS-labels.tsv",
+    }
+  ]
+}
