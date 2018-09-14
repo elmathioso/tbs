@@ -6,8 +6,8 @@
         10000,
         300
       ],
-      "tensorPath": "github.com/elmathioso/tbs/TBS-vectors.tsv",
-      "metadataPath": "github.com/elmathioso/tbs/TBS-labels.tsv",
+      "tensorPath": "raw.githubusercontent.com/elmathioso/tbs/master/TBS-vectors.tsv",
+      "metadataPath": "raw.githubusercontent.com/elmathioso/tbs/master/TBS-labels.tsv",
     }
   ]
 }
